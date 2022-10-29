@@ -139,6 +139,7 @@ header a:hover {
 
 #boxes {
   margin-top: 20px;
+  cursor: pointer;
 }
 
 #boxes .box {
